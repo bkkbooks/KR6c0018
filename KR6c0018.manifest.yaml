@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR6c0018/v1
+canonical_location: https://kanripo.org/bkk/KR6c0018/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛母般若波羅蜜多圓集要義論
+  identifiers:
+    alt_id:
+    - T25n1518
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T25/T25n1518.xml
+    old_id: T25n1518
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0018_000.yaml, hash: 'sha256:a3c04f1b9255c249d50da69ec86de58e6d12c564ebb5fae93fbcbdfc1a24ee4b'}
+  - {seq: 1, filename: KR6c0018_001.yaml, hash: 'sha256:94dcce10d4c07fb962026fdf8bda9aef230667facb8d2448ab14b355dfc3a038'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0018_000.markers.yaml, hash: 'sha256:4bff5fd8b5cad20a355b5d606d8375fb1429c6a53aa38d3a02d639506b02fcb3'}
+  - {seq: 1, role: markers, filename: assets/KR6c0018_001.markers.yaml, hash: 'sha256:834cff99cf5ac251694de328c339b6b510f330fc1407967bbe903c87b1a58398'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6c0018_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1166
+  label: 佛母般若波羅蜜多圓集要義論
+  type: juan
+  level: 1
+hash: sha256:f629b905c4b479332101073f6dd2658d8022e01b9b6c713e77e74670f8929460

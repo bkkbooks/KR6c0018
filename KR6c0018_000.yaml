@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6c0018/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛母般若波羅蜜多圓集要義論
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T25/T25n1518.xml
+    old_id: T25n1518
+hash: sha256:a3c04f1b9255c249d50da69ec86de58e6d12c564ebb5fae93fbcbdfc1a24ee4b
